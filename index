@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="AN9WmFg866RXpnZhy11mAOmF3qEp7cxczWCXavefQyg" />
+    <link rel="shortcut icon" href=".\images\icon.png">
+    <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+     <title>Hipy - All Bot</title>
+    </head>
+    <body style="background-color:#272934	;">
+    <nav class="navbar navbar-dark" style="background:color:#272934">
+    <div class="container-fluid">
+            <a class="navbar-brand" href="https://artik77z.github.io/Hipy-site">
+            <img src=".\images\hipy.png" href"https://artik77z.github.io/Hipy-site" alt="" width="70" height="70" class="h1">
+            Hipy
+            </a>
+        </div>
+        </nav>
+
+
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <div class="container my-5 py-auto text-center" style="max-width: 20rem;" style="max-height: 20rem;">
+                <img src=".\images\hipy.png" width="160" height="160">
+                <p class="h3 text-white">Hipy</p>
+                <a href="" class="btn btn-primary ml-2" role="button">Add to your server</a>
+            </div>
+            </div>
+            <div class="col">
+              <div class="container my-5 py-auto text-center" style="max-width: 20rem;" style="max-height: 20rem;">
+                <img src=".\images\hipy.png" width="160" height="160">
+                <p class="h3 text-white">Hipy 2</p>
+                <a href="" class="btn btn-primary ml-2" role="button">Add to your server</a>
+            </div>
+            </div>
+            <div class="col">
+              <div class="container my-5 py-auto text-center" style="max-width: 20rem;" style="max-height: 20rem;">
+                <img src=".\images\hipy.png" width="160" height="160">
+                <p class="h3 text-white">Hipy 3</p>
+                <a href="" class="btn btn-primary ml-2" role="button">Add to your server</a>
+            </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
